@@ -1,5 +1,4 @@
-## Olá! Eu sou o Felipe, tenho 19 anos e moro em São Paulo. Sou estudante e entusiasta de programação, sempre buscando aprender novas tecnologias e evoluir minhas habilidades. 
-Tenho grande interesse em educação financeira, Web3 e criptomoedas, explorando como a tecnologia pode transformar a forma como nos relacionamos com o dinheiro e os investimentos. Aqui no GitHub compartilho meus estudos, projetos e ideias relacionadas à programação.
+## Olá! Eu sou o Felipe, tenho 19 anos e moro em São Paulo. Sou estudante e entusiasta de programação, sempre buscando aprender novas tecnologias e evoluir minhas habilidades. Tenho grande interesse em educação financeira, Web3 e criptomoedas, explorando como a tecnologia pode transformar a forma como nos relacionamos com o dinheiro e os investimentos. Aqui no GitHub compartilho meus estudos, projetos e ideias relacionadas à programação.
 
 <!--
 **felipebpatrocinio/felipebpatrocinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
