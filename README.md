@@ -1,1 +1,3 @@
-## Olá! Eu sou o Felipe, tenho 19 anos e moro em São Paulo. Sou estudante de programação na Faculdade São Paulo Tech School, no curso de ADS, sempre busco aprender novas tecnologias e evoluir minhas habilidades. Tenho grande interesse em educação financeira, Web3 e criptomoedas, explorando como a tecnologia pode transformar a forma como nos relacionamos com o dinheiro e os investimentos. Aqui no GitHub compartilho meus estudos, projetos e ideias relacionadas à programação.
+## Felipe 
+
+Olá! Eu sou o Felipe, tenho 19 anos e moro em São Paulo. Sou estudante de programação na Faculdade São Paulo Tech School, no curso de ADS, sempre busco aprender novas tecnologias e evoluir minhas habilidades. Tenho grande interesse em educação financeira, Web3 e criptomoedas, explorando como a tecnologia pode transformar a forma como nos relacionamos com o dinheiro e os investimentos. Aqui no GitHub compartilho meus estudos, projetos e ideias relacionadas à programação.
